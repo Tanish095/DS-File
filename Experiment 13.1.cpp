@@ -7,7 +7,7 @@ int main()
 {
 cout <<"enter no of vertices SIR/MAM!";
 cin >> n;
-cout<<"sir please enter for undirected grah"<<endl;
+cout<<"enter for undirected grah"<<endl;
      cin>>x>>y;
     if(x>=n&&y>=n)
         cout<<"please enter within range"<<endl;
